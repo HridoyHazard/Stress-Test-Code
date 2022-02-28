@@ -11,7 +11,7 @@ First You Need To Understand The Problem Fully Then You Need To Write An Accurat
   <br>
     <img src="ss/1.png"><br>
    <b>Here Is My Actual Approach/Solution</b><br>
-    <img src="ss/2.png"><br>
+    <img src="ss/2.PNG"><br>
     <b>After Submitting This Solution I Got Error But Don't Know For Which Case</b><br>
     <img src="ss/3.png"><br>
     <b>Here Is The Bruteforce Approach/Solution</b><br>
