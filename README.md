@@ -19,9 +19,9 @@ First You Need To Understand The Problem Fully Then You Need To Write An Accurat
     <b>Generating Some Random Numbers For Bruteforces Code Input</b><br>
     <img src="ss/5.png"><br>
     <b>Checker Script For Comparing Both Code And Finding Difference</b><br>
-    <img src="ss/6.PNG"><br>
+    <img src="ss/10.PNG"><br>
     <b>Run Gitbash From The Folder And Use This Script <code>bash checker.sh</code></b><br>
-    <img src="ss/7.PNG"><br>
+    <img src="ss/11.PNG"><br>
     <b>Found Hidden Case For Which Code Failing</b><br>
     <img src="ss/8.PNG"><br>
     <b>After Fixing Failed Test Case Got AC</b><br>
