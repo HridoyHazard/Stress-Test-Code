@@ -9,21 +9,21 @@ First You Need To Understand The Problem Fully Then You Need To Write An Accurat
 ## How To Use Steps By Steps
 <p align="center">
   <br>
-    <img src="ss/1.png"><br>
-   <b>Here Is My Actual Approach/Solution</b><br>
+    <img src="ss/1.png"><br><br>
+   <b>Here Is My Actual Approach/Solution</b><br><br>
     <img src="ss/2.PNG"><br>
-    <b>After Submitting This Solution I Got Error But Don't Know For Which Case</b><br>
+    <b>After Submitting This Solution I Got Error But Don't Know For Which Case</b><br><br>
     <img src="ss/3.png"><br>
-    <b>Here Is The Bruteforce Approach/Solution</b><br>
+    <b>Here Is The Bruteforce Approach/Solution</b><br><br>
     <img src="ss/4.png"><br>
-    <b>Generating Some Random Numbers For Bruteforces Code Input</b><br>
+    <b>Generating Some Random Numbers For Bruteforces Code Input</b><br><br>
     <img src="ss/5.png"><br>
-    <b>Checker Script For Comparing Both Code And Finding Difference</b><br>
+    <b>Checker Script For Comparing Both Code And Finding Difference</b><br><br>
     <img src="ss/10.PNG"><br>
-    <b>Run Gitbash From The Folder And Use This Script <code>bash checker.sh</code></b><br>
+    <b>Run Gitbash From The Folder And Use This Script <code>bash checker.sh</code></b><br><br>
     <img src="ss/11.PNG"><br>
-    <b>Found Hidden Case For Which Code Failing</b><br>
+    <b>Found Hidden Case For Which Code Failing</b><br><br>
     <img src="ss/8.PNG"><br>
-    <b>After Fixing Failed Test Case Got AC</b><br>
+    <b>After Fixing Failed Test Case Got AC</b><br><br>
 </p>
 
